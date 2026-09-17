@@ -1,5 +1,11 @@
 # Versiooniuuenduste ajalugu
 
+# Versiooniuuenduste ajalugu
+
+## [2.2.2] - 18.09.2026
+### Lisatud
+- Lisatud rakenduse jalusesse versiooninumber ja väljalaske kuupäev.
+
 ## [2.2.1] - 18.09.2026
 ### Lisatud
 - Automaatsed uuendused rakendusele
