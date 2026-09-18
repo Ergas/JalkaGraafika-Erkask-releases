@@ -1,6 +1,8 @@
 # Versiooniuuenduste ajalugu
 
-# Versiooniuuenduste ajalugu
+## [2.2.3] - 18.09.2026
+### Lisatud
+- Lisatud kasutajale nähtavad teavitused uuenduse saadavuse, allalaadimise edenemise ja lõpetamise kohta.
 
 ## [2.2.2] - 18.09.2026
 ### Lisatud
