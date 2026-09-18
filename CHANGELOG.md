@@ -1,5 +1,9 @@
 # Versiooniuuenduste ajalugu
 
+## [2.2.5] 18.09.2026
+### Muudetud
+- Litsentsi valideerimisel saadetakse litsentsiserverile rakenduse praegune versioon.
+
 ## [2.2.4] 18.09.2026
 ### Muudetud
 - Ühtlustatud Windowsi väljalaske installeri ja uuendusefailide nimed.
