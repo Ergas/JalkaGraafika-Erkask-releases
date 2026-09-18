@@ -1,5 +1,9 @@
 # Versiooniuuenduste ajalugu
 
+## [2.2.4] 18.09.2026
+### Muudetud
+- Ühtlustatud Windowsi väljalaske installeri ja uuendusefailide nimed.
+
 ## [2.2.3] - 18.09.2026
 ### Lisatud
 - Lisatud kasutajale nähtavad teavitused uuenduse saadavuse, allalaadimise edenemise ja lõpetamise kohta.
