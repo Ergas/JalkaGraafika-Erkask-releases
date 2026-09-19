@@ -1,5 +1,11 @@
 # Versiooniuuenduste ajalugu
 
+## [2.3.1] 20.09.2026
+### Parandatud
+- Parandatud Windowsi allalaadimise Save As dialoogi avamine.
+- Parandatud allalaaditavate failide algse nime ja laiendi säilitamine.
+- Lisatud edenemisriba ka Windowsi ja brauseri allalaadimise töövoogudele.
+
 ## [2.3.0] 20.09.2026
 ### Lisatud
 - Lisatud litsentsiga seotud failide loend ja allalaadimise leht.
