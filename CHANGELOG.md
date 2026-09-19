@@ -1,5 +1,15 @@
 # Versiooniuuenduste ajalugu
 
+## [2.3.0] 20.09.2026
+### Lisatud
+- Lisatud litsentsiga seotud failide loend ja allalaadimise leht.
+- Lisatud faili salvestuskoha valimine Save As dialoogi või brauseri failivalija kaudu.
+- Lisatud allalaadimise edenemise protsent ja visuaalne edenemisriba, kui faili suurus on teada.
+- Failid laaditakse voona alla ja salvestatakse kasutaja valitud asukohta, säilitades algse failinime ja laiendi.
+- Allalaadimisnupp kuvab laadimise ajal animeeritud laadimisikooni.
+### Muudetud
+- Rakenduse jalus paikneb lühikestel lehtedel alati akna allservas.
+
 ## [2.2.5] 18.09.2026
 ### Muudetud
 - Litsentsi valideerimisel saadetakse litsentsiserverile rakenduse praegune versioon.
