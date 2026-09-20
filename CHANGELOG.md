@@ -1,5 +1,13 @@
 # Versiooniuuenduste ajalugu
 
+## [2.4.0] 20.09.2026
+### Lisatud
+- Lisatud võistlusepõhised vMix-i profiilid premium liiga ja teiste võistluste jaoks.
+- Lisatud algkoosseisude eelvaate ja live-nupud mõlemale meeskonnale.
+### Muudetud
+- Alternatiivse vMix-i profiili mänguinfo, meeskondade, kohtunike, värvide ja intro-graafika tugi.
+- Tegevuste loend kuvab viimased sündmused esimesena.
+- Kohtunike väljad kohanduvad kolme ja nelja ametniku korral.
 
 ## [2.3.3] 20.09.2026
 ### Parandatud
