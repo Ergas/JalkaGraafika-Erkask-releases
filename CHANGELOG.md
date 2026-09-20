@@ -1,5 +1,17 @@
 # Versiooniuuenduste ajalugu
 
+
+## [2.3.3] 20.09.2026
+### Parandatud
+- Litsentsi andmete tuvastamine
+
+## [2.3.2] 20.09.2026
+### Lisatud
+- Lisatud aktiivse litsentsi nime kuvamine litsentsi seadetes.
+### Muudetud
+- Litsentsi täielik olek salvestatakse nüüd operatsioonisüsteemi turvalisse Credential Store'i, mitte JSON-faili.
+- Lisatud olemasolevate litsentsiandmete automaatne migreerimine turvalisse Credential Store'i.
+
 ## [2.3.1] 20.09.2026
 ### Parandatud
 - Parandatud Windowsi allalaadimise Save As dialoogi avamine.
