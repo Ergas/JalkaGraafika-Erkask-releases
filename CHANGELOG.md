@@ -1,5 +1,10 @@
 # Versiooniuuenduste ajalugu
 
+## [2.4.2] 04.10.2026
+### Muudetud
+- Windowsi installer kuvab litsentsitingimused ja lisab LICENSE-faili installitud programmi kausta.
+- Rakendus paigaldatakse nüüd kõigile kasutajatele Program Files-kausta.
+
 ## [2.4.1] 04.10.2026
 ### Lisatud
 - Lisatud võimalus määrata meeskonnale käsitsi peatreener, kui allikas treeneri nime ei anna.
