@@ -1,5 +1,12 @@
 # Versiooniuuenduste ajalugu
 
+## [2.4.1] 04.10.2026
+### Lisatud
+- Lisatud võimalus määrata meeskonnale käsitsi peatreener, kui allikas treeneri nime ei anna.
+### Muudetud
+- Mängude allikate päringuväljad kuvatakse ainult siis, kui valitud allikas neid vajab; implementeerimata allikad 5 ja 6 on peidetud.
+- Lisatud vMix-i overlay-sisendite 1 kuni 8 tugi, sh algkoosseisu live-kuvamine overlayga 3.
+
 ## [2.4.0] 20.09.2026
 ### Lisatud
 - Lisatud võistlusepõhised vMix-i profiilid premium liiga ja teiste võistluste jaoks.
