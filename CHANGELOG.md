@@ -1,5 +1,9 @@
 # Versiooniuuenduste ajalugu
 
+## [2.4.5] 04.10.2026
+### Lisatud
+- Vahetuse vormis saab nüüd lisada ja korraga kinnitada mitu mängijate vahetust.
+
 ## [2.4.4] 04.10.2026
 ### Parandatud
 - Premium liiga algkoosseisu mängijad saadetakse nüüd õigete vMix-i väljadega.
