@@ -1,5 +1,9 @@
 # Versiooniuuenduste ajalugu
 
+## [2.4.4] 04.10.2026
+### Parandatud
+- Premium liiga algkoosseisu mängijad saadetakse nüüd õigete vMix-i väljadega.
+
 ## [2.4.3] 04.10.2026
 ### Muudetud
 - Uue litsentsi aktiveerimisel deaktiveeritakse seadme varasem litsents.
