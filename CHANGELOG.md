@@ -1,5 +1,9 @@
 # Versiooniuuenduste ajalugu
 
+## [2.4.3] 04.10.2026
+### Muudetud
+- Uue litsentsi aktiveerimisel deaktiveeritakse seadme varasem litsents.
+
 ## [2.4.2] 04.10.2026
 ### Muudetud
 - Windowsi installer kuvab litsentsitingimused ja lisab LICENSE-faili installitud programmi kausta.
