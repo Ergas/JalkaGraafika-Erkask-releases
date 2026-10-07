@@ -1,5 +1,13 @@
 # Versiooniuuenduste ajalugu
 
+## [2.4.6] 07.10.2026
+### Lisatud
+- Salvestatud mängudes ja avatud mängu vaates kuvatakse mängu kuupäev ja kellaaeg.
+- Mänguinfo saatmisel saadetakse vMix-i mõlema meeskonna treeneri nimi ja info.
+### Parandatud
+- Mänguinfo osalise saatmise tõrge ei takista enam teiste vMix-i graafikaväljade uuendamist.
+- Alternatiivse vMix-i profiili suure skoori vaates kuvatakse nüüd ka meeskondade logod.
+
 ## [2.4.5] 04.10.2026
 ### Lisatud
 - Vahetuse vormis saab nüüd lisada ja korraga kinnitada mitu mängijate vahetust.
