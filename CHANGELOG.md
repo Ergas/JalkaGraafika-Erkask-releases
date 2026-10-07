@@ -1,5 +1,15 @@
 # Versiooniuuenduste ajalugu
 
+## [2.5.0] 07.10.2026
+### Lisatud
+- Lisatud eraldi leht Premium Liiga ja teiste võistluste vMix-i sisendite nimede muutmiseks ning profiilipõhiseks lähtestamiseks.
+- Mängu avamisel kuvatakse laadimisindikaator.
+### Muudetud
+- Tegevuste ja väravalööjate aeg kuvab nüüd aktiivset mänguminutit.
+### Parandatud
+- vMix-i päringud kasutavad sisendite nimesid ilma `.gtzip` laiendita ning arvestavad muudetud nimedega.
+- Parandatud alternatiivse vMix-i profiili sisendite ja intro-graafika nimede kasutamine.
+
 ## [2.4.6] 07.10.2026
 ### Lisatud
 - Salvestatud mängudes ja avatud mängu vaates kuvatakse mängu kuupäev ja kellaaeg.
