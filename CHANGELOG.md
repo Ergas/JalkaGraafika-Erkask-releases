@@ -1,5 +1,13 @@
 # Versiooniuuenduste ajalugu
 
+## [2.5.1] 08.10.2026
+### Muudetud
+- Aktiivse otseülekandega mängu ei saa kustutada; mängude hulgikustutamisel säilitatakse aktiivsed mängud.
+- Väravat saab tühistada ainult tegevuste loendist, mitte skoori „-1” nupuga.
+### Parandatud
+- Neljanda kohtuniku nimi saadetakse Premium liiga vMix-i graafikas õigele väljale.
+- Salvestatud mängu avamisel kuvatakse nähtav laadimisolek navigeerimise ajal.
+
 ## [2.5.0] 07.10.2026
 ### Lisatud
 - Lisatud eraldi leht Premium Liiga ja teiste võistluste vMix-i sisendite nimede muutmiseks ning profiilipõhiseks lähtestamiseks.
