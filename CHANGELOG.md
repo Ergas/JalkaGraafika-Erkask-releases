@@ -1,5 +1,9 @@
 # Versiooniuuenduste ajalugu
 
+## [2.5.4] 08.10.2026
+### Lisatud
+- Salvestatud mängudes ja avatud mängu vaates kuvatakse võistluse nimi.
+
 ## [2.5.3] 08.10.2026
 ### Lisatud
 - Mängu mõlemale treenerile saab eraldi kaarte määrata ning nende kaardigraafikat vMix-is kuvada.
