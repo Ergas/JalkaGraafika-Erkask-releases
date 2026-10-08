@@ -1,5 +1,21 @@
 # Versiooniuuenduste ajalugu
 
+## [2.5.3] 08.10.2026
+### Lisatud
+- Mängu mõlemale treenerile saab eraldi kaarte määrata ning nende kaardigraafikat vMix-is kuvada.
+### Parandatud
+- Mängu ja tiimi info saatmisel edastatakse vMix-i ainult esimese peatreeneri nimi.
+- Mänguinfo mängijate ja treenerite nimede suurtähed ühtlustati üksikute mängija- ja treenerigraafikatega.
+- Suure skoori lisainfo saadetakse teistes võistlustes nii `HALFTIME.Text` kui ka `INFO-TXT.Text` väljale.
+
+## [2.5.2] 08.10.2026
+### Muudetud
+- vMix-i käsupakettide saatmine on piiratud 100 käsuni ja maksimaalselt kaheksa samaaegse päringuni, et vältida juhuslikke koormuspiike.
+- Otseülekande kasutus- ja vMix-i päringute töökindlust parandatud.
+### Parandatud
+- Välditud kattuvate otseülekande südamelöökide saatmine.
+- Mänguandmete allikapäringutele lisatud 15-sekundiline ajalõpp.
+
 ## [2.5.1] 08.10.2026
 ### Muudetud
 - Aktiivse otseülekandega mängu ei saa kustutada; mängude hulgikustutamisel säilitatakse aktiivsed mängud.
