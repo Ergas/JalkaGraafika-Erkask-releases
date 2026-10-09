@@ -1,5 +1,9 @@
 # Versiooniuuenduste ajalugu
 
+## [2.7.2] 09.10.2026
+### Lisatud
+- Uuenduste lehel saab nüüd vaadata kõigi rakenduse versioonide muudatusi.
+
 ## [2.7.1] 09.10.2026
 ### Lisatud
 - Lisatud otseülekande lehele nupud kolme rakendusele reserveeritud vMix overlay sulgemiseks vMix-is seadistatud üleminekuefektiga.
