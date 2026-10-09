@@ -1,5 +1,9 @@
 # Versiooniuuenduste ajalugu
 
+## [2.7.4] 09.10.2026
+### Lisatud
+- Salvestatud mängu andmeid saab uuendada salvestatud mängude loendist ja avatud mängu vaatest algsest XML-andmeallikast.
+
 ## [2.7.3] 09.10.2026
 ### Parandatud
 - Mängu algusaeg teisendatakse litsentsiserverile saatmisel Eesti ajast UTC-sse, et see kasutaks otseülekande algusajaga sama ajavööndit.
