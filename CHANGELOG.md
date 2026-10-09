@@ -1,5 +1,16 @@
 # Versiooniuuenduste ajalugu
 
+## [2.7.5] 09.10.2026
+### Lisatud
+- Mängija tegevuste menüüst saab väravavahi rolli määrata kuni kahele mängijale, kui mänguandmetes pole väravavahti määratud.
+### Muudetud
+- Koondise mängude allikas nimetati ümber ja võeti uuesti kasutusele
+- Tänaste mängude allikas keelati, kuna jalkaliidu api ei edasta andmeid.
+### Parandatud
+- Koondise mängude allika kodu- ja võõrsilmeeskonna peatreenerid loetakse meeskonna ametnike loendist.
+- Koondise mängude kohtunikud loetakse ka allika väljadest `refery`, `refery2`, `refery3` ja `refery4`.
+- Koondisemängude vMix-i võistlusinfos ei kuvata vooru tähist „voor”.
+
 ## [2.7.4] 09.10.2026
 ### Lisatud
 - Salvestatud mängu andmeid saab uuendada salvestatud mängude loendist ja avatud mängu vaatest algsest XML-andmeallikast.
