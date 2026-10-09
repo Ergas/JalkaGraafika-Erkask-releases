@@ -1,5 +1,16 @@
 # Versiooniuuenduste ajalugu
 
+## [2.7.1] 09.10.2026
+### Lisatud
+- Lisatud otseülekande lehele nupud kolme rakendusele reserveeritud vMix overlay sulgemiseks vMix-is seadistatud üleminekuefektiga.
+### Muudetud
+- Uuenduste menüülink on nüüd menüü viimane valik.
+- Muudatuste logi kuvatakse uuenduste lehel vormindatult.
+### Parandatud
+- Määramata värava aega ei kuvata suure skoori väravalööjate loendis.
+- Uuendatud Nuxti, XML-i parsija ja Electron Builderi sõltuvused.
+- Määratud projektile toetatud Node.js-i versiooninõue.
+
 ## [2.7.0] 09.10.2026
 ### Lisatud
 - Lisatud rakenduse uuenduste leht, kus kuvatakse uuenduse olek, allalaadimise edenemine ja GitHubi väljalaske muudatused.
