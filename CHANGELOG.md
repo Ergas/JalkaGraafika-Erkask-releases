@@ -1,5 +1,9 @@
 # Versiooniuuenduste ajalugu
 
+## [2.7.3] 09.10.2026
+### Parandatud
+- Mängu algusaeg teisendatakse litsentsiserverile saatmisel Eesti ajast UTC-sse, et see kasutaks otseülekande algusajaga sama ajavööndit.
+
 ## [2.7.2] 09.10.2026
 ### Lisatud
 - Uuenduste lehel saab nüüd vaadata kõigi rakenduse versioonide muudatusi.
