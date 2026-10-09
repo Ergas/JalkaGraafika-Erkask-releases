@@ -1,5 +1,25 @@
 # Versiooniuuenduste ajalugu
 
+## [2.7.0] 09.10.2026
+### Lisatud
+- Lisatud rakenduse uuenduste leht, kus kuvatakse uuenduse olek, allalaadimise edenemine ja GitHubi väljalaske muudatused.
+- Rakenduse käivitamisel kuvatakse uue versiooni korral uuenduse teavitus.
+- Uuenduse saab edasi lükata ja hiljem uuenduste lehelt paigaldada.
+- Laiendatud testikomplekti ärikriitiliste otseülekande API-de, mängu oleku, vahetuste, vMix-i käskude, litsentsi oleku, allikate ja allalaadimiste katet.
+- Lisatud testid vMix-i piiratud käskude autoriseerimisele ja käsupakettide järjekorra säilitamisele.
+### Muudetud
+- Uuendus laaditakse ja paigaldatakse rakenduse töötamise ajal; paigaldamine ei sõltu rakenduse või Windowsi sulgemisest.
+- Aktiivse otseülekande ajal on uuenduste kontroll ja allalaadimine peatatud.
+- Testikomplektis on nüüd 49 testi 12 testifailis ning litsentsiserveri päringud on jätkuvalt täielikult mock'itud.
+
+## [2.6.0] 09.10.2026
+### Lisatud
+- Lisatud Vitest-il põhinev ühik-, integratsiooni- ja komponenditestide komplekt.
+- Lisatud `npm test` ja `npm run test:watch` käsud testide käivitamiseks.
+### Parandatud
+- XML-ist puuduva kohtuniku ID väärtus säilitatakse `null`-ina, mitte väärtusena `0`.
+- Kohandatud vMix-i sisendite nimed lahendatakse käskude töötlemisel õigesti.
+
 ## [2.5.4] 08.10.2026
 ### Lisatud
 - Salvestatud mängudes ja avatud mängu vaates kuvatakse võistluse nimi.
