@@ -1,5 +1,16 @@
 # Versiooniuuenduste ajalugu
 
+## 3.0.0
+### Lisatud
+- Lisatud futsali võistluse tugi
+### Muudetud
+- vMix-i käsud koostatakse ja valideeritakse nüüd profiili võimekuste järgi: Premium Liiga saab ainult Premiumi ning teised võistlused ainult standardprofiili toetatud sisendid ja väljad.
+### Parandatud
+- Mängude allikast jäetakse välja mängud, mille kategooria `sg_category_id` on 12, sest neil puudub otseülekanne.
+- Skoori eelvaatesse või otsepilti saatmisel uuendatakse mõlema vMix-i profiili meeskonnanimesid, skoore ja värve; kella juhitakse eraldi.
+- Meeskonna kahevärvilisest särgi- või püksivärvist kasutatakse rakenduses ja vMix-is esimest värvi.
+- Teiste võistluste vMix-i profiilis saadetakse neljanda kohtuniku nimi teise abikohtuniku väljale, kui neljas kohtunik on määratud.
+
 ## [2.7.5] 09.10.2026
 ### Lisatud
 - Mängija tegevuste menüüst saab väravavahi rolli määrata kuni kahele mängijale, kui mänguandmetes pole väravavahti määratud.
