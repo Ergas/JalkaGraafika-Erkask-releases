@@ -1,5 +1,15 @@
 # Versiooniuuenduste ajalugu
 
+## 3.1.0
+### Lisatud
+- Lisatud päringute ja ühenduse diagnostika, mis kogub aeglaste päringute ja vigade infot. Diagnostikaandmeid saadetakse taustal (v.a otseülekande ajal) ning säilitatakse piiratud aja.
+### Muudetud
+- Litsentsiserveriga suhtlemine on töökindlam aeglase või katkeva ühenduse korral.
+### Parandatud
+- Vähendatud litsentsiserveri vastuse ooteaega otseülekande alustamisel.
+- Vähendatud südamelöögi- ja otseülekande lõpetamise päringute viivitusi.
+- Välditud kasutussündmuse kadumine litsentsiserveri ajutise tõrke korral.
+
 ## 3.0.0
 ### Lisatud
 - Lisatud futsali võistluse tugi
