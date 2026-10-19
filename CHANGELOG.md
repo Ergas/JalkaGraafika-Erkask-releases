@@ -1,5 +1,9 @@
 # Versiooniuuenduste ajalugu
 
+## 3.1.1 16.10.2026
+### Muudetud
+- UI muudatused: otseülekande tehe disaini uuendus.
+
 ## 3.1.0
 ### Lisatud
 - Lisatud päringute ja ühenduse diagnostika, mis kogub aeglaste päringute ja vigade infot. Diagnostikaandmeid saadetakse taustal (v.a otseülekande ajal) ning säilitatakse piiratud aja.
