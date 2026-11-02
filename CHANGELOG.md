@@ -1,5 +1,9 @@
 # Versiooniuuenduste ajalugu
 
+## 3.1.5 02.11.2026
+### Parandatud
+- Kasutusoleku päringud ei oota enam litsentsiserveri pooleliolevaid taustal tehtavaid usage-event'ide retry-sid.
+
 ## 3.1.4 02.11.2026
 ### Parandatud
 - Meeskonna särgi- ja püksivärvid saadetakse vMix-i järjekorras, et värviväljad uuenduksid korrektselt.
