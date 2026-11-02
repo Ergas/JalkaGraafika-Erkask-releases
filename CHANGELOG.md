@@ -1,5 +1,10 @@
 # Versiooniuuenduste ajalugu
 
+## 3.1.4 02.11.2026
+### Parandatud
+- Meeskonna särgi- ja püksivärvid saadetakse vMix-i järjekorras, et värviväljad uuenduksid korrektselt.
+- Otseülekande seansi heartbeat'i ja oleku salvestused järjestatakse, vältides aktiivse seansi ekslikku aegumist samaaegsete päringute korral.
+
 ## 3.1.3 02.11.2026
 ### Muudetud
 - Otseülekande vaade: skoortahvel, meeskonnapaneel ja päis murduvad kitsal ekraanil ridadeks; meeskonnanimed ja lühendid on üleval, kell all; lühendi väli on kitsam.
