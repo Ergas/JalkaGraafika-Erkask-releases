@@ -1,5 +1,18 @@
 # Versiooniuuenduste ajalugu
 
+## 3.1.3 02.11.2026
+### Muudetud
+- Otseülekande vaade: skoortahvel, meeskonnapaneel ja päis murduvad kitsal ekraanil ridadeks; meeskonnanimed ja lühendid on üleval, kell all; lühendi väli on kitsam.
+### Parandatud
+- Rakenduse vigade diagnostikasse lisatakse tegelik põhjus (vea nimi, kood, sõnum ja stack'i algus), mitte ainult "Server Error".
+- Aeglaste päringute logi testi ajastus ei aegu enam.
+
+## 3.1.2 02.11.2026
+### Parandatud
+- vMixi hosti väljalt eemaldatakse kõik tühikud ja nähtamatud märgid enne IPv4 kontrolli.
+- Litsentsi olekupäringud jagavad 30-sekundilist vahemälu ja samaaegseid päringuid; salvestatud litsentsi lugemise viga ei anna enam 500-viga.
+- Kehtetu litsentsi korral ei logita aeglaste päringute diagnostika üleslaadimise viga enam pika veajäljena.
+
 ## 3.1.1 16.10.2026
 ### Muudetud
 - UI muudatused: otseülekande tehe disaini uuendus.
