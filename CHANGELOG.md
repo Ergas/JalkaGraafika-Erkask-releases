@@ -1,5 +1,12 @@
 # Versiooniuuenduste ajalugu
 
+## 3.1.6 07.11.2026
+### Lisatud
+- Suure skoori aknas saab väravalööjate kuvamise välja lülitada (Premium Liiga ja standardpakett); väljalülitamisel tühjendatakse vMix-i väravalööjate väljad ega saadeta neid ka uute väravate korral.
+### Muudetud
+- Premium Liiga kaardigraafika kasutab sisendeid CARDS-home ja CARDS-away: mängija nimi läheb väljale PLAYERS IN.Text, meeskonna logo väljale TEAM LOGO.Source ning kollane/punane kaart lülitatakse väljadega KAART YELLOW.Source ja KAART RED.Source.
+- Premium Liiga vahetuste sisendid on SUBSTITUTIONS-home ja SUBSTITUTIONS-away: sisse tulev mängija läheb väljale PLAYERS IN.Text, välja minev PLAYERS OUT.Text ja logo TEAM LOGO.Source.
+
 ## 3.1.5 02.11.2026
 ### Parandatud
 - Kasutusoleku päringud ei oota enam litsentsiserveri pooleliolevaid taustal tehtavaid usage-event'ide retry-sid.
