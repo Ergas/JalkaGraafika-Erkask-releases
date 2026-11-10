@@ -1,5 +1,15 @@
 # Versiooniuuenduste ajalugu
 
+## 3.2.0 11.11.2026
+### Lisatud
+- Otseülekande vaates näete vMixi ühenduse olekut ja viimase kontrolli aega. Ühendust kontrollitakse automaatselt iga 30 sekundi järel ning vajadusel saate kontrolli ise käivitada.
+### Muudetud
+- Kui XML-allikas ajutiselt ei tööta, saate jätkata varem laaditud andmetega. Vaade teavitab, kui kasutusel on salvestatud andmed.
+- Otseülekande juhtnuppe ja mängijate tegevusi on lihtsam kasutada.
+- Salvestamise olekut kuvatakse selgemalt: näete seda salvestamise ajal ja toimingu ebaõnnestumisel.
+- Kui salvestatud mänguandmeid ei õnnestu lugeda, säilitatakse fail ning kuvatakse juhis taastamiseks.
+- Tõrgete korral kuvatakse arusaadavamad eestikeelsed teated ja juhised.
+
 ## 3.1.6 07.11.2026
 ### Lisatud
 - Suure skoori aknas saab väravalööjate kuvamise välja lülitada (Premium Liiga ja standardpakett); väljalülitamisel tühjendatakse vMix-i väravalööjate väljad ega saadeta neid ka uute väravate korral.
