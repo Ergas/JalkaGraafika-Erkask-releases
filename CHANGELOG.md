@@ -1,5 +1,9 @@
 # Versiooniuuenduste ajalugu
 
+## 3.2.2 19.11.2026
+## Parandatud
+- Töölauarakendus jätkab pärast otseülekande lõppu ootel uuenduse allalaadimist või kontrollib uuesti, kas seni avatud rakendusele on uuendus ilmunud. Uuenduste leht eristab tegemata kontrolli olukorrast, kus uuenduste kanal uuemat versiooni ei paku. Kui uuendus on juba alla laaditud, leiab käsitsi kontroll siiski hiljem avaldatud versiooni.
+
 ## 3.2.1 19.11.2026
 ### Muudetud
 - Premium Liiga vahetuste tiitrites kuvatakse mängija number nime ees.
