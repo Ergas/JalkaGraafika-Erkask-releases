@@ -1,5 +1,11 @@
 # Versiooniuuenduste ajalugu
 
+## 3.2.1 19.11.2026
+### Muudetud
+- Premium Liiga vahetuste tiitrites kuvatakse mängija number nime ees.
+- Suure skoori väravalööjate rea pikkuse piir on Premium Liigas 60 ja teistes võistlustes 50 märki; samal real olevad väravalööjad eraldatakse komaga ning mängijanimesid ei poolitata reavahetusega.
+- Sama väravalööja väravate ajad kuvatakse alati kasvavas järjekorras ja eraldatakse komadega.
+
 ## 3.2.0 11.11.2026
 ### Lisatud
 - Otseülekande vaates näete vMixi ühenduse olekut ja viimase kontrolli aega. Ühendust kontrollitakse automaatselt iga 30 sekundi järel ning vajadusel saate kontrolli ise käivitada.
