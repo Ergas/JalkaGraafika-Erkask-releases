@@ -1,5 +1,9 @@
 # Versiooniuuenduste ajalugu
 
+## 3.2.5 22.11.2026
+### Parandatud
+- Üleminutitel värava löömisel näitab korrektse aja (nt 45+1', mitte 46')
+
 ## 3.2.4 22.11.2026
 ### Muudetud
 - Premium Liiga intro staadioni nimi kuvatakse suurtähtedega.
