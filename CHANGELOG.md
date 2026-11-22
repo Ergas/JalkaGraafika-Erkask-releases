@@ -1,5 +1,14 @@
 # Versiooniuuenduste ajalugu
 
+## 3.2.6 22.11.2026
+### Muudetud
+- Tegevuste loendis kuvatakse mängijanumbrid meeskonna särgivärvi märkidel.
+- vMix-i lisaminutite väljal kuvatakse plussmärk (nt +2') ning lisaminutite lüliti kontrastsust parandati.
+### Parandatud
+- Värava ja muu mängusündmuse aega saab määrata poolaja, lisaajaosa ja üleminutite järgi; üleminutid kuvatakse õigesti (nt 45+2').
+- Arenduskeskkond ei ava enam uuenduse hüpikakent ega kasuta paigaldatud rakendusega sama Electroni üksikeksemplari lukku.
+- Arenduskeskkonna aeglaste päringute diagnostika jääb kohalikku järjekorda ega saada litsentsiserverisse sobimatuid välju.
+
 ## 3.2.5 22.11.2026
 ### Parandatud
 - Üleminutitel värava löömisel näitab korrektse aja (nt 45+1', mitte 46')
