@@ -1,5 +1,10 @@
 # Versiooniuuenduste ajalugu
 
+## 3.2.4 22.11.2026
+### Muudetud
+- Premium Liiga intro staadioni nimi kuvatakse suurtähtedega.
+- Premium Liiga kaartidel kuvatakse mängija number nime ees.
+
 ## 3.2.3 22.11.2026
 ### Parandatud
 - Premium Liiga graafika valitakse nüüd ka võistlusele ID 283.
